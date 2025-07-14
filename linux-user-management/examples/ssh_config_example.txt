@@ -1,0 +1,3 @@
+# Example /etc/ssh/sshd_config settings:
+PasswordAuthentication no
+ChallengeResponseAuthentication no
